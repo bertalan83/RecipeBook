@@ -1,0 +1,25 @@
+receptkonyv (recipe book)
+
+
+
+nem tul egyedi otlet, ria keresztneves appjahoz eleg hasonlo.
+
+
+
+lenyegeben a felhasznalo valasztani tud nehany recept kozul.
+lehet hogy majd csak egy bizonyos kulturaju receptkonyv lesz ezt meg nem dontottem el ( pl magyar konyha, keleti etelek stb. )
+a program kiirja a hozzavalokat es az elkeszitesi javaslatot.
+
+
+
+kesobb amikor mar file okat is tudunk kezelni akkor bovitem a ‘receptkonyvet’ txt fajlokkal,
+amikben az app majd kereshet
+
+
+
+a felhasznalo beirhatja a meglevo hozzavaloit es az app kiadja azokat a recepteket amiket ezekkel el tud kesziteni.
+
+
+
+illetve megadhatja hogy milyen husbol / hus nelkul szeretne etelt kesziteni (csirke/marha/diszno)
+es ahhoz igazitva kapja a recepteket.
